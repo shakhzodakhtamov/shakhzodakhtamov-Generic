@@ -5,9 +5,7 @@
  * This doesn't seem useful yet, but in a Collection such as ArrayList, you could have a generic
  * array that can store and retrieve many items of any type. This feature is needed for collections, web server
  * technologies, and advanced database interactivity (ORMs).
- *
- * You can read more about generics here: https://www.programiz.com/java-programming/generics
- *
+ * *
  * For this problem, let's say we just need an Object that is able to manage a single Object of any type - T data.
  * For now, we just need to save and retrieve data.
  *
